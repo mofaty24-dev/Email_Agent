@@ -83,9 +83,6 @@ To use a different local model, change the `model` parameter in `summarizer.py`'
 └── README.md
 ```
 
-## Known Issues
-
-- `email_fetch()` currently builds the message list but does not return the combined text — this needs a return statement combining sender/subject/date/body into a single string before this pipeline will run end-to-end.
 
 ## Security Notes
 
