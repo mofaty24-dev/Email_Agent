@@ -1,7 +1,7 @@
 {
     "dependencies": ["."],
     "graphs": {
-        "agent": "D:/PycharmProjects/AI Agent/Email_Assistant.py:agent"
+        "agent": "[file/address/Email_Assistant,py]:agent"
     },
-    "env": "D:/PycharmProjects/AI Agent/.env"
+    "env": "file/address/.env"
   }
